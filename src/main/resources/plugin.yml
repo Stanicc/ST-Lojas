@@ -1,0 +1,7 @@
+name: ST-Lojas
+version: 1.0
+main: stanic.stlojas.Main
+author: Stanic
+commands:
+  lojas:
+  loja:
